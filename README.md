@@ -35,4 +35,4 @@
 
 ### 📫 **Contato**  
 📧 Email: guilherme.teixeira22@fatec.sp.gov.br  
-🌎 Portfólio: [Portfólio Guilherme Maciel Teixeira]("https://guilh3rm3maci3l.github.io/Portfolio")  
+🌎 Portfólio: [Meu Portfólio](https://guilh3rm3maci3l.github.io/Portfolio)
