@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou Guilherme Maciel 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-maciel-teixeira-5940b0175">LinkedIn</a> •
