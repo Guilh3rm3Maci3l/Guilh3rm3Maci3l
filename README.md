@@ -33,5 +33,5 @@
 ---
 
 ### 📫 **Contato**  
-📧 Email: seuemail@example.com  
+📧 Email: guilherme.teixeira22@fatec.sp.gov.br  
 🌎 Portfólio: [Meu Portfólio](https://guilh3rm3maci3l.github.io/Portfolio)
