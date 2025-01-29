@@ -27,11 +27,11 @@
 ### 📊 **Estatísticas do GitHub**  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilh3rm3Maci3l&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guilh3rm3Maci3l&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app?user=Guilh3rm3Maci3l&theme=tokyonight" />
 </div>
 
 ---
 
-### 📫 **Contato**  
+### 👫 **Contato**  
 📧 Email: guilherme.teixeira22@fatec.sp.gov.br  
 🌎 Portfólio: [Meu Portfólio](https://guilh3rm3maci3l.github.io/Portfolio)
