@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 **Sobre Mim**  
-💻 Técnico em Informática | 🎓 Estudante de ADS na FATEC Campinas 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas | 💻 Técnico em Informática  
 
 ---
 
